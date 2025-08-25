@@ -1,1 +1,3 @@
-# BC_EVs_miRNA
+## **Integrative Analysis of Extracellular Vesicle miRNAs Reveals Molecular Signatures and Regulatory Networks in Breast Cancer Subtypes**  
+In this study, I conducted an integrative analysis of publicly available breast cancer miRNA datasets, including data preprocessing, batch correction, and differential expression analysis. Applied the MINT-sPLS-DA algorithm from mixOmics for multivariate integration to identify robust, discriminative miRNA signatures for disease and subtype classification. Constructed miRNA–target interaction networks, retaining predicted targets regulated by at least three differentially expressed miRNAs, and performed functional enrichment analysis to uncover key pathways and regulatory mechanisms, providing insights into molecular alterations and potential biomarkers specific to breast cancer subtypes.  
+**[Source Code](https://github.com/Menna-Arafat/BC_EVs_miRNA)**  
